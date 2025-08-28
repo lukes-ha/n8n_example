@@ -19,6 +19,7 @@ n8n-Flow:
 
 Google Drive nach Start des n8n-Flows:
 <img width="2537" height="1228" alt="image" src="https://github.com/user-attachments/assets/d74dd605-be03-457e-80e7-6391438b9c00" />
+<img width="2543" height="1089" alt="image" src="https://github.com/user-attachments/assets/0a7280a8-ffae-4bee-aefa-f52791a6dfc7" />
 
 
 
