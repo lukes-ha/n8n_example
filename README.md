@@ -10,3 +10,7 @@ Die Dateien werden im Ordner der Person abgelegt.
 
 Prozess in n8n:
 Mit Hilfe dieses Prozesses werden die Dokumente von einer KI (hier: gemini) analyziert und unter dem jeweiligen Namen automatisch in dem Ordner der Person abgelegt, sollte es bereits ein Ordner für diese Person geben wird ein neuer angelegt.
+
+<img width="1109" height="279" alt="Flow" src="https://github.com/user-attachments/assets/ea313c35-4123-474f-be6f-bbc15f620bb6" />
+
+
